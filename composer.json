@@ -1,0 +1,14 @@
+{
+    "name": "khalidjubair/woobuilder",
+    "description": "Wocommerce\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Do\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cbuilder for elementor page builder",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WooBuilder\\": "includes/"
+        },
+        "files": []
+    }
+}
